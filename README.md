@@ -1,0 +1,2 @@
+# hmazed
+Haskell maze generator
